@@ -1,7 +1,7 @@
 {
-  "Version": "0.1.51",
-  "Url": "https://github.com/trongtkm/NESTING/releases/download/v0.1.51/NestingTool_Setup_0.1.51.exe",
-  "Sha256": "0322c67c496ca3b1966d653e92d804cdaea930fed5bf2e2f286ad593e875bbe1",
+  "Version": "0.1.52",
+  "Url": "https://github.com/trongtkm/NESTING/releases/download/V0.1.52/NestingTool_Setup_0.1.52.exe",
+  "Sha256": "ec148e9fb7aa0483ed4a3c17eb00a590f7a7e781e8f4e7c036addb944f542974",
   "Mandatory": true,
   "Notes": "..."
 }
